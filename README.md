@@ -1,7 +1,7 @@
 # MEAN (Mongo , Express, AngularJs, NodeJs)
 > An Angular + Node/Express + Webpack + MongoDB + SASS + Babel/ES6 + ui-router + Bootstrap starter kit
 
-ToDo App:
+ToDo App Demo Project:
 
 1. Add Task
 
