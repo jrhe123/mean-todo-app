@@ -1,7 +1,7 @@
 # Super MEAN Stack
 > An Angular + Node/Express + Webpack + MongoDB + SASS + Babel/ES6 + ui-router + Bootstrap starter kit
 
-*Note: This repository contains some minor updates that are not in the <a href="https://www.youtube.com/watch?v=6Sbau-oE37w" target="_blank">YouTube tutorial video</a>.*
+
 
 ## Live App Demo
 
